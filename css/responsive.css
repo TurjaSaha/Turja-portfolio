@@ -1,0 +1,372 @@
+@media(min-width: 1200px) and (max-width:1399.98px) {}
+
+@media(min-width: 992px) and (max-width:1199.98px) {
+    #about {
+        height: auto;
+    }
+
+    .about_b {
+        padding: 8px;
+        margin-top: 10px;
+    }
+
+    #about h3 {
+        font-size: 35px;
+        padding-top: 10px;
+    }
+
+    .about_right {
+        text-align: center;
+    }
+
+    .about_right h5 {
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .about_right h4 {
+        font-size: 20px;
+    }
+
+    .about_right p {
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .about_b {
+        padding: 12px;
+        margin: 0 5px;
+    }
+    #blog {
+        height: 500px;
+    }
+    #portfolio {
+        height: 400px;
+    }
+}
+
+
+@media(min-width: 768px) and (max-width:991.98px) {
+    #custom_nav {
+        position: relative;
+    }
+    #banner {
+        height: 60vh;
+    }
+
+    #about {
+        height: auto;
+    }
+
+    .about_b {
+        padding: 8px;
+        margin-top: 10px;
+    }
+
+    #about h3 {
+        font-size: 35px;
+        padding-top: 10px;
+    }
+
+    .about_right {
+        text-align: center;
+    }
+
+    .about_right h5 {
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .about_right h4 {
+        font-size: 20px;
+    }
+
+    .about_right p {
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .about_b {
+        padding: 12px;
+    }
+    .services_items h5 {
+        font-size: 15px;
+    }
+    .services_items {
+        padding: 60px 23px;
+    }
+    
+    #portfolio {
+        height: auto;
+        padding-bottom: 20px;
+    }
+    #test {
+        height: 450px;
+    }
+    .test_items {
+        margin: 40px 15px 0;
+    }
+    #blog {
+        height: auto;
+        padding-bottom: 55px;
+    }
+    .blog_items {
+        margin-bottom: 65px;
+        padding: 50px 30px 0;
+    }
+    .blog_cont {
+        bottom: -80px;
+        padding: 12px;
+    }
+    .blog_cont {
+        margin: 0 30px;
+    }
+    .blog_cont p {
+        padding: 5px 0;
+    }
+    
+    #contact{
+        height: auto;
+        padding-bottom: 20px;
+    }
+    .contact_left {
+        margin: 40px 0 20px;
+    }
+    .contact_left h5 {
+        padding-bottom: 15px;
+    }
+    input:nth-child(1),
+    input:nth-child(2) {
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    input:nth-child(3) {
+        padding-top: 0;
+    }
+    textarea {
+        padding-top: 20px;
+    }
+    .contact_right_items p {
+        font-size: 15px;
+    }
+
+}
+
+@media(min-width: 576px) and (max-width:767.98px) {
+    #custom_nav {
+        position: relative;
+    }
+    #banner {
+        height: 60vh;
+    }
+
+    #about {
+        height: auto;
+    }
+
+    .about_b {
+        padding: 8px;
+        margin-top: 10px;
+    }
+
+    #about h3 {
+        font-size: 35px;
+        padding-top: 10px;
+    }
+
+    .about_right {
+        text-align: center;
+    }
+
+    .about_right h5 {
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .about_right h4 {
+        font-size: 20px;
+    }
+
+    .about_right p {
+        font-size: 16px;
+        text-align: left;
+    }
+
+    .about_b {
+        padding: 8px;
+    }
+
+    .services_items {
+        padding: 60px 23px;
+    }
+    
+    #portfolio {
+        height: auto;
+        padding-bottom: 20px;
+    }
+    #test {
+        height: 450px;
+    }
+    .test_items {
+        margin: 40px 15px 0;
+    }
+    #blog {
+        height: auto;
+        padding-bottom: 55px;
+    }
+    .blog_items {
+        margin-bottom: 80px;
+    }
+    .blog_cont {
+        bottom: -100px;
+        padding: 12px;
+    }
+    
+    #contact{
+        height: auto;
+        padding-bottom: 20px;
+    }
+    .contact_left {
+        margin: 40px 0 20px;
+    }
+    .contact_left h5 {
+        padding-bottom: 15px;
+    }
+    input:nth-child(1),
+    input:nth-child(2) {
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    input:nth-child(3) {
+        padding-top: 0;
+    }
+    textarea {
+        padding-top: 20px;
+    }
+    .contact_right_items p {
+        font-size: 15px;
+    }
+}
+
+@media(max-width: 575.98px) {
+    #custom_nav {
+        position: relative;
+    }
+
+    #mynav .nav-link {
+        padding: 0;
+    }
+
+    #mynav ul li {
+        padding: 10px 10px;
+    }
+    #banner {
+        height: 50vh;
+    }
+    .banner_text h2 {
+        font-size: 24px;
+    }
+    .banner_text h1 {
+        font-size: 45px;
+        letter-spacing: 15px;
+    }
+    #about {
+        height: auto;
+    }
+
+    .about_b {
+        padding: 8px;
+        margin-top: 10px;
+    }
+
+    #about h3 {
+        font-size: 30px;
+        padding-top: 10px;
+    }
+
+    .about_right {
+        text-align: center;
+    }
+
+    .about_right h5 {
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .about_right h4 {
+        font-size: 20px;
+    }
+
+    .about_right p {
+        font-size: 16px;
+        text-align: left;
+    }
+
+    .about_b {
+        padding: 8px;
+        display: inline-block;
+        height: 100px;
+        width: 246px;
+    }
+
+    #service {
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .services_items {
+        margin-top: 20px;
+    }
+
+    .services_items {
+        padding: 35px 28px;
+    }
+
+    #portfolio {
+        height: auto;
+        padding-bottom: 20px;
+    }
+    #test {
+        height: 450px;
+    }
+    .test_items {
+        margin: 40px 15px 0;
+    }
+    #blog {
+        height: auto;
+        padding-bottom: 55px;
+    }
+    .blog_items {
+        margin-bottom: 130px;
+    }
+    .blog_cont {
+        bottom: -140px;
+        padding: 12px;
+    }
+    
+    #contact{
+        height: auto;
+        padding-bottom: 20px;
+    }
+    .contact_left {
+        margin: 40px 0 20px;
+    }
+    .contact_left h5 {
+        padding-bottom: 15px;
+    }
+    input:nth-child(1),
+    input:nth-child(2) {
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    input:nth-child(3) {
+        padding-top: 0;
+    }
+    textarea {
+        padding-top: 20px;
+    }
+    .contact_right_items p {
+        font-size: 15px;
+    }
+
+}
